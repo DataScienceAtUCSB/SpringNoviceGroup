@@ -209,7 +209,7 @@
 </p>
 <ol>
 	<li>
-		
+
 	</li>
 </ol>
 
@@ -233,7 +233,7 @@
 			The club has a physical copy of this book
 		</li>
 		<li>
-			Introduction to Statistical Learning is slightly better in explaning the algorithms themselves
+			Introduction to Statistical Learning is slightly better in explaining the algorithms themselves
 		</li>
 	</ul>
 	<li>
