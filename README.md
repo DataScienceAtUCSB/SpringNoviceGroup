@@ -37,7 +37,7 @@ Project outlines for the club's novice project group
 
 <h3>Forming Teams</h3>
 <p>
-	During the first meeting, we will have everyone mingle and meet new members. You may have some friends in the room, but you still need to mingle! D
+	To get things started, we will get everyone up and moving about the room. Get ready for some cheesy ice-breakers! Also, you must be brutally honest about your knowledge. It is no problem if you are coming in fresh with no experience--but it is a problem if you lie and tell others that you are well-versed in a programming language. It is time to self-assess your skill level. 
 </p>
 <ul>
 	<li>
@@ -81,6 +81,31 @@ Project outlines for the club's novice project group
 				Email addresses
 			</li>
 		</ul>
+	</li>
+	<li>
+		Get started with GitHub! This may be a difficult process for some of you. If you get stuck, ask your team members. If the whole team is stuck, ask Google. If you can't find the answer through Gooogle, ask Jason.
+		<ul>
+			<li>
+				Git is how people share and create code in the real world
+			</li>
+			<li>
+				Walk through <a href="https://help.github.com/articles/set-up-git/">this tutorial</a> to set up Git on your personal computers. Do not use GitHub Desktop, it is time to get comfortable on the command line.
+				<ul>
+					<li>
+						You will have to set up SSH keys.
+					</li>
+				</ul>
+			</li>
+			<li>
+				Follow each other on GitHub, of course
+			</li>
+			<li>
+				Try creating a Git repository through the web browser on your account, include a README.md. Then clone the repository through the command line. Check that the README.md file is there. Now add a file to the repository from the command line using <code>touch test.txt</code>. Then <a href="http://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add">add</a> it, commit it, and push it. <em>Does <code>test.txt</code> appear on the GitHub repo page in the web broswer?</em>
+			</li>
+		</ul>
+	</li>
+	<li>
+		Before leaving, make sure you all have decided on a project. Assign some duties for everyone to do before the next meeting. Perhaps everyone should do X amount of exercises on DataCamp? 
 	</li>
 </ul>
 
