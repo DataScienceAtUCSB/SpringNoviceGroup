@@ -1,8 +1,5 @@
-# SpringNoviceGroup
-Project outlines for the club's novice project group
-
-
 <h1>Data Science at UCSB</h1>
+<h2>Spring Novice Group -- General Info</h2>
 
 <p>
 	Welcome to the novice project group! I hope you are excited. The best way to learn these skills is to apply them to a project. Besides that, we hope that you will learn some basic teamwork and delegation skills along the way. It is important that you are honest about what you do and do not know. "Fake it 'till you make it" won't work here... and neither will your code! 
