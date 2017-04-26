@@ -64,9 +64,6 @@
 			<li>
 				What does pip do?
 			</li>
-			<li>
-				
-			</li>
 		</ul>
 	</li>
 	<li>
